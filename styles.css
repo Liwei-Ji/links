@@ -12,8 +12,8 @@
 /* 圖片*/
 .logo img {
     margin-right: 10px; /* 設定圖片和標題的間距 */
-    width: 150px;  /* 寬度 */
-    height: 150px; /* 高度*/
+    width: 200px;  /* 寬度 */
+    height: 200px; /* 高度*/
     border-radius: 50%;
 }
 
